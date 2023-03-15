@@ -1,0 +1,23 @@
+{
+  "name": "github-rest-util",
+  "version": "1.0.0",
+  "description": "NodeJS REST Util for GitHub Management",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saichandrasekar/github-rest-util.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saichandrasekar/github-rest-util/issues"
+  },
+  "homepage": "https://github.com/saichandrasekar/github-rest-util#readme",
+  "dependencies": {
+    "octokit": "^2.0.14"
+  }
+}
